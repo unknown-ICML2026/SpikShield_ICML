@@ -1,4 +1,4 @@
-# SpikeShield
+# SpikShield
 
 This repository contains the **anonymous implementation** for the ICML 2026 submission:
 
